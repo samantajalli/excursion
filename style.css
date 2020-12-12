@@ -1,14 +1,19 @@
+
 header h1 {
     color: white;
     font-family: verdana;
     font-size: 50px;
     font-weight: normal;
     text-align: center;
-    
-
 }
 html{
     background-color: black;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 footer {
@@ -17,6 +22,13 @@ footer {
     font-size: 21px;
     text-align: right;
 }
+
+video {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .arrival {
     color: white;
     font-family: verdana;
@@ -33,6 +45,8 @@ footer {
     text-align: center;
 }
 
+
+
 .travel{
     color: white;
     font-family: verdana;
@@ -44,6 +58,7 @@ footer {
 
 #excursion {
     color: aquamarine;
+    display: block;
     font-size: 16px;
     text-align: center;
 }
