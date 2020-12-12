@@ -1,0 +1,49 @@
+header h1 {
+    color: white;
+    font-family: verdana;
+    font-size: 50px;
+    font-weight: normal;
+    text-align: center;
+    
+
+}
+html{
+    background-color: black;
+}
+
+footer {
+    color: gray;
+    font-family: verdana;
+    font-size: 21px;
+    text-align: right;
+}
+.arrival {
+    color: white;
+    font-family: verdana;
+    font-size: 42px;
+    font-weight: 300;
+    text-align: center;
+    
+}
+
+.detail {
+    color: gray;
+    font-family: verdana;
+    font-size: 21px;
+    text-align: center;
+}
+
+.travel{
+    color: white;
+    font-family: verdana;
+    font-size: 42px;
+    font-weight: 300;
+    text-align: center;
+    
+}
+
+#excursion {
+    color: aquamarine;
+    font-size: 16px;
+    text-align: center;
+}
